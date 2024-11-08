@@ -1,3 +1,4 @@
+# The significance of union and intersection types in Typescript.
 Union and Intersection makes TypeScript more flexible and safe by allowing multiple type acceptance or combine type.
 
 Union Type(|):
