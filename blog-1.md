@@ -24,7 +24,6 @@ example code:
 type Person = {name: string};
 type Employee = {employeeId : number};
 type EmployeeProfile = Person & Employee;
-
 const employee : EmployeeProfile = {name: 'sakib', employeeId: 4389};
 
 
